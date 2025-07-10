@@ -18,10 +18,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [ushnamondal@gmail.com](mailto:ushnamondal@gmail.com)
 * 🧠  I'm learning Tensorflow, Numpy, JS
 * 🤝  I'm open to collaborating on Other ML projects
-* ⚡  🌙 Code hits different at night
-* 🖥️ Desktop theming is my creative outlet
-* 🍰 Motivated by sweets and bubble tea
-* 🐍 Fluent in Python and emoji 😉
+* ⚡ Fun Facts:
+- 🌙 Code hits different at night
+- 🖥️ Desktop theming is my creative outlet
+- 🍰 Motivated by sweets and bubble tea
+- 🐍 Fluent in Python and emoji 😉
 
 ### Skills
 
