@@ -4,23 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 3rd year Computer Science & Engineering student at Chandigarh University
 ------------------------------------------------------------------------
 
-👩‍💻 Self-taught + classroom-trained developer
+👩‍💻 Developer blending classroom knowledge with self-learning
 
-🐧 Currently living on the bleeding edge with Hyprland on Arch Linux
+🐧 Arch Linux enthusiast running Hyprland
 
-🎨 Designing and developing frontends with HTML, Tailwind, and JavaScript
+🎨 Crafting clean and modern UIs with HTML, Tailwind, and JavaScript
 
-🧠 Curious about: open-source, minimalism, and tiling window managers
+🧠 Passionate about open-source, minimal systems, and window managers
 
-📚 Always learning something new, always tinkering, always building
-
-🎧 Music + terminal = my coding ritual
+🎧 Music fuels my focus and creativity
 
 * 🌍  I'm based in Chandigarh, India
 * ✉️  You can contact me at [ushnamondal@gmail.com](mailto:ushnamondal@gmail.com)
 * 🧠  I'm learning Tensorflow, Numpy, JS
 * 🤝  I'm open to collaborating on Other ML projects
-* ⚡  ✨ Fun Facts 🌕 Night owl coder: I do my best work when the world sleeps 🧩 I love customizing my Linux desktop to match my mood 🍩 Will code for donuts. Or bubble tea 💬 I talk in emojis as fluently as I code in Python 😄
+* ⚡  🌙 Code hits different at night 🖥️ Desktop theming is my creative outlet 🍰 Motivated by sweets and bubble tea 🐍 Fluent in Python and emoji 😉
 
 ### Skills
 
