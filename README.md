@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ushna Mondal
 ====================================================================================================================================
 
-3rd year Computer Science & Engineering student at Chandigarh University
+3ʳᵈ year CSE student at Chandigarh University
 ------------------------------------------------------------------------
 
 👩‍💻 Developer blending classroom knowledge with self-learning
