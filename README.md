@@ -15,7 +15,6 @@
 
 ## 🌸 About Me
 
-```c++
 #include <life>
 using namespace curiosity;
 
