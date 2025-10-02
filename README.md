@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ushna Mondal
+<h2> Hi, I'm <a href="Ushna">Ushna</a><img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/pikahello.gif
+" width="40px" height="40px"></h2>
 ====================================================================================================================================
 
 3ʳᵈ year CSE student at Chandigarh University
