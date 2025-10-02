@@ -14,55 +14,59 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/dev.gif" width="24px" height="24px"> Developer blending classroom knowledge with self-learning  
 <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/linux.gif" width="24px" height="24px"> Arch Linux enthusiast and Linux lover  
 🧠 Passionate about AI/ML, cybersecurity, and open-source systems  
-🎨 Building clean UIs with HTML, Tailwind, and JavaScript  
-⚡ Skilled in Python, C++, Java, C, SQL, Bash scripting, and Git  
+🎨 Building clean and modern UIs with HTML, Tailwind, JavaScript, and Figma  
+⚡ Skilled in Python, C++, Java, C, SQL, Bash scripting, Git, Node.js, PHP, Docker, AWS, Blender, Arduino, Linux, PostgreSQL, MySQL  
 <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/peace.gif" width="24px" height="24px"> Music fuels my focus and creativity  
 
 - 🌍 Based in **Dhaka, Bangladesh**  
 - ✉️ Contact: [ushnamondal@gmail.com](mailto:ushnamondal@gmail.com)  
-- 🧠 Currently learning: TensorFlow, NumPy, PyTorch, SQL, and advanced JavaScript  
-- 🤝 Open to AI/ML, cybersecurity, and open-source collaborations  
+- 🧠 Currently learning: TensorFlow, NumPy, PyTorch, OpenCV, SQL, Advanced JavaScript, and Cybersecurity Tools  
+- 🤝 Open to AI/ML, cybersecurity, UI/UX design, and open-source collaborations  
 - ⚡ **Fun Facts:**  
-  - 🌙 Code is better at night  
+  - 🌙 Code hits different at night  
   - 🖥️ Desktop theming is my creative outlet  
   - 🍰 Motivated by sweets and bubble tea  
-  - 🚀 Always exploring new tech and programming languages
+  - 🚀 Always exploring new tech and programming languages  
 
 ---
 
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="mailto:ushnamondal@gmail.com"><img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
-<a href="https://www.linkedin.com/in/ushnamondal" target="_blank"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<a href="https://twitter.com/" target="_blank"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-<a href="https://t.me/" target="_blank"><img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/></a>
-<a href="https://www.instagram.com/" target="_blank"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+<a href="mailto:ushnamondal@gmail.com"><img alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
+<a href="https://www.linkedin.com/in/ushnamondal" target="_blank"><img alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="https://twitter.com/" target="_blank"><img alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+<a href="https://t.me/" target="_blank"><img alt="Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/></a>
+<a href="https://www.instagram.com/" target="_blank"><img alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+<a href="https://github.com/not-Ushna" target="_blank"><img alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
 </p>
 
 <br/><br/>
+
 ---
 
-### 🛠️ Skills
+### 🛠️ My Tech Stack
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="Bash" /></a>
-<a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://www.blender.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
-<a href="https://store.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36"/> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36"/> 
 </p>
 
 ---
@@ -72,7 +76,7 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=not-Ushna&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=not-Ushna&theme=dracula&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-Ushna&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-Ushna&layout=compact&langs_count=10&theme=dracula&hide_border=true" />
 </p>
 
 ---
@@ -81,10 +85,10 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/me%3F.gif" width="250"/>
 
-- 🌱 Currently learning **ML tools** like TensorFlow & NumPy  
-- 🧠 Interested in **minimal systems**, **window managers**, and **UI design**  
-- 🧰 Love tinkering with **Arch + Hyprland** setups  
-- 🫧 Always up for **collabs & cool projects**  
+- 🌱 Currently learning **TensorFlow, PyTorch, OpenCV, AI/ML tools**  
+- 🧠 Passionate about **minimal systems**, **window managers**, and **UI/UX design**  
+- 🧰 Love tinkering with **Arch + Hyprland setups**  
+- 🫧 Always open for **collabs, projects, and cool experiments**  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/are%20you%20lost%3F.gif" 
