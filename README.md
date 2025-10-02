@@ -4,7 +4,7 @@
        style="border-radius: 15px;" />
 </p>
 
-<h2>Hi, I'm <a href="https://github.com/not-Ushna">Ushna</a><img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/pikahello.gif" width="40px" height="40px"></h2>
+<h2 align="center">Hi, I'm <a href="https://github.com/not-Ushna">Ushna</a><img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/pikahello.gif" width="40px" height="40px"></h2>
 
 3ʳᵈ year CSE student at Chandigarh University 🏫  
 Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
