@@ -4,7 +4,7 @@
        style="border-radius: 15px;" />
 </p>
 
-<h2 align="center">Hi, I'm <a href="https://github.com/not-Ushna">Ushna</a><img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/pikahello.gif" width="40px" height="40px"></h2>
+<h2 align="center">Hi, I'm <a href="https://github.com/not-Ushna">Ushna</a> <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/pikahello.gif" width="40px" height="40px"></h2>
 
 3ʳᵈ year CSE student at Chandigarh University 🏫  
 Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
@@ -28,22 +28,19 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
   - 🍰 Motivated by sweets and bubble tea  
   - 🚀 Always exploring new tech and programming languages
 
-
 ---
 
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="mailto:ushnamondal@gmail.com"><img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
-<a href="https://www.linkedin.com/in/ushnamondal" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<a href="https://twitter.com/" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-<a href="https://t.me/" target="_blank"><img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/></a>
-<a href="https://www.instagram.com/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
+<a href="mailto:ushnamondal@gmail.com"><img alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
+<a href="https://www.linkedin.com/in/ushnamondal" target="_blank"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="https://twitter.com/" target="_blank"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+<a href="https://t.me/" target="_blank"><img alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/></a>
+<a href="https://www.instagram.com/" target="_blank"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a>
 </p>
 
-<br/>
-<br/>
-
+<br/><br/>
 ---
 
 ### 🛠️ Skills
@@ -72,31 +69,29 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 
 ### 🏆 GitHub Stats
 
-<p>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=not-Ushna&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=not-Ushna&theme=dracula&hide_border=true" />
-</p>
-
-<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-Ushna&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
 ### ✨ A Little Extra
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/me%3F.gif" width="250"/>
 
-- 🌱 Currently learning **ML tools** like TensorFlow & Numpy  
+- 🌱 Currently learning **ML tools** like TensorFlow & NumPy  
 - 🧠 Interested in **minimal systems**, **window managers**, and **UI design**  
 - 🧰 Love tinkering with **Arch + Hyprland** setups  
 - 🫧 Always up for **collabs & cool projects**  
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/are%20you%20lost%3F.gif" 
        width="100%" height="180px" 
        style="border-radius: 15px;" />
 </p>
+
 <p align="center">
   "<em>I wander through the faces of the world, yet none see the void I carry within.</em>"<br/>
   — Ushna
