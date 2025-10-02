@@ -12,20 +12,22 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 ---
 
 <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/dev.gif" width="24px" height="24px"> Developer blending classroom knowledge with self-learning  
-<img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/linux.gif" width="24px" height="24px"> Arch Linux enthusiast running Hyprland 
-🎨 Crafting clean and modern UIs with HTML, Tailwind, and JavaScript  
-🧠 Passionate about open-source, minimal systems, and window managers  
-<img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/peace.gif" width="24px" height="24px"> Music fuels my focus and creativity
+<img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/linux.gif" width="24px" height="24px"> Arch Linux enthusiast and Linux lover  
+🧠 Passionate about AI/ML, cybersecurity, and open-source systems  
+🎨 Building clean UIs with HTML, Tailwind, and JavaScript  
+⚡ Skilled in Python, C++, Java, C, SQL, Bash scripting, and Git  
+<img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/peace.gif" width="24px" height="24px"> Music fuels my focus and creativity  
 
-- 🌍 I'm based in **Dhaka, Bangladesh**  
-- ✉️ Contact me: [ushnamondal@gmail.com](mailto:ushnamondal@gmail.com)  
-- 🧠 Currently learning: TensorFlow, NumPy, JavaScript  
-- 🤝 Open to collaborating on ML projects  
+- 🌍 Based in **Dhaka, Bangladesh**  
+- ✉️ Contact: [ushnamondal@gmail.com](mailto:ushnamondal@gmail.com)  
+- 🧠 Currently learning: TensorFlow, NumPy, PyTorch, SQL, and advanced JavaScript  
+- 🤝 Open to AI/ML, cybersecurity, and open-source collaborations  
 - ⚡ **Fun Facts:**  
-  - 🌙 Code hits different at night  
+  - 🌙 Code is better at night  
   - 🖥️ Desktop theming is my creative outlet  
   - 🍰 Motivated by sweets and bubble tea  
-  - 🐍 Fluent in Python and emoji 😉
+  - 🚀 Always exploring new tech and programming languages
+
 
 ---
 
