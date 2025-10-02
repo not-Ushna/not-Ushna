@@ -83,6 +83,7 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 
 ### ✨ A Little Extra
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/me%3F.gif" width="250"/>
+
 - 🌱 Currently learning **ML tools** like TensorFlow & Numpy  
 - 🧠 Interested in **minimal systems**, **window managers**, and **UI design**  
 - 🧰 Love tinkering with **Arch + Hyprland** setups  
