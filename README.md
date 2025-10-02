@@ -15,7 +15,7 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/linux.gif" width="24px" height="24px"> Arch Linux enthusiast running Hyprland 
 🎨 Crafting clean and modern UIs with HTML, Tailwind, and JavaScript  
 🧠 Passionate about open-source, minimal systems, and window managers  
-🎧 Music fuels my focus and creativity
+<img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/peace.gif" width="24px" height="24px"> Music fuels my focus and creativity
 
 - 🌍 I'm based in **Dhaka, Bangladesh**  
 - ✉️ Contact me: [ushnamondal@gmail.com](mailto:ushnamondal@gmail.com)  
