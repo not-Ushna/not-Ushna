@@ -11,7 +11,7 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 
 ---
 
-👩‍💻 Developer blending classroom knowledge with self-learning  
+<img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/dev.gif" width="24px" height="24px"> Developer blending classroom knowledge with self-learning  
 <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/linux.gif" width="24px" height="24px"> Arch Linux enthusiast running Hyprland 
 🎨 Crafting clean and modern UIs with HTML, Tailwind, and JavaScript  
 🧠 Passionate about open-source, minimal systems, and window managers  
