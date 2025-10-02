@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/void.gif" 
+       width="100%" height="180px" 
+       style="border-radius: 15px;" />
+</p>
+
 <h2>Hi, I'm <a href="https://github.com/not-Ushna">Ushna</a><img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/pikahello.gif" width="40px" height="40px"></h2>
 
 3ʳᵈ year CSE student at Chandigarh University 🏫  
