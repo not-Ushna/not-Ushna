@@ -85,10 +85,12 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/me%3F.gif" width="250"/>
 
-- 🌱 Currently learning **TensorFlow, PyTorch, OpenCV, AI/ML tools**  
-- 🧠 Passionate about **minimal systems**, **window managers**, and **UI/UX design**  
-- 🧰 Love tinkering with **Arch + Hyprland setups**  
-- 🫧 Always open for **collabs, projects, and cool experiments**  
+- 🌱 **Currently Learning:** TensorFlow, PyTorch, OpenCV, AI/ML tools, Advanced JavaScript  
+- 🧠 **Passions:** Minimal systems, window managers, UI/UX design, cybersecurity  
+- 🧰 **Hobbies & Interests:** Arch + Hyprland tinkering, chess, reading books, manga, anime, comics, movies  
+- 🗣️ **Languages I Speak:** English, Bangla, Hindi, Assamese, Spanish, Japanese, German, Nepali, French  
+- 🕉️ **Philosophy:** Enjoy solitude, love learning new things, music fuels creativity  
+- 🫧 **Always Open For:** Collaborations, projects, experiments, and exploring new tech  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/are%20you%20lost%3F.gif" 
@@ -100,3 +102,4 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
   "<em>I wander through the faces of the world, yet none see the void I carry within.</em>"<br/>
   — Ushna
 </p>
+
