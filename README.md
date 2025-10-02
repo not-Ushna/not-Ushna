@@ -89,3 +89,13 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 - 🧰 Love tinkering with **Arch + Hyprland** setups  
 - 🫧 Always up for **collabs & cool projects**  
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/are%20you%20lost%3F.gif" 
+       width="100%" height="180px" 
+       style="border-radius: 15px;" />
+</p>
+<p align="center">
+  "<em>I wander through the faces of the world, yet none see the void I carry within.</em>"<br/>
+  — Ushna
+</p>
