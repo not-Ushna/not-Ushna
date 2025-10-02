@@ -11,7 +11,7 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 🧠 Passionate about open-source, minimal systems, and window managers  
 🎧 Music fuels my focus and creativity
 
-- 🌍 I'm based in **Chandigarh, India**  
+- 🌍 I'm based in **Dhaka, Bangladesh**  
 - ✉️ Contact me: [ushnamondal@gmail.com](mailto:ushnamondal@gmail.com)  
 - 🧠 Currently learning: TensorFlow, NumPy, JavaScript  
 - 🤝 Open to collaborating on ML projects  
