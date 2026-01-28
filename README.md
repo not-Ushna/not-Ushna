@@ -20,7 +20,8 @@ Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 ⚡ Skilled in Python, C++, Java, C, SQL, Bash scripting, Git, Node.js, PHP, Docker, AWS, Blender, Arduino, Linux, PostgreSQL, MySQL  
 <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/peace.gif" width="24px" height="24px"> Music fuels my focus and creativity  
 
-- 🌍 Based in **Dhaka, Bangladesh**  
+- 🌍 Based in **Dhaka, Bangladesh**
+- 🌍 Wants to live in **Kathmandu, Nepal**  
 - ✉️ Contact: [ushnamondal@gmail.com](mailto:ushnamondal@gmail.com)  
 - 🧠 Currently learning: TensorFlow, NumPy, PyTorch, OpenCV, SQL, Advanced JavaScript, and Cybersecurity Tools  
 - 🤝 Open to AI/ML, cybersecurity, UI/UX design, and open-source collaborations  
