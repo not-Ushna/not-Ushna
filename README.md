@@ -8,7 +8,6 @@
 
 <p align="center">
 3ʳᵈ year CSE student at Chandigarh University 🏫  
-Arch Linux 💻 | Hyprland 🧠 | Clean UI 🎨 | Open Source ❤️
 </p>
 
 ---
