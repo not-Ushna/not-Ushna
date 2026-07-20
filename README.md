@@ -31,6 +31,13 @@
   - 🚀 Always exploring new tech and programming languages  
 
 ---
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=not-Ushna&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/not-Ushna"
+  width="600"
+  height="300"
+/>
+</a>
 
 ### 🌐 Connect with me
 
