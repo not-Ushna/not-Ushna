@@ -87,7 +87,7 @@
 
 -  **Currently Learning:** TensorFlow, PyTorch, OpenCV, AI/ML tools, Advanced JavaScript  
 -  **Passions:** Minimal systems, window managers, UI/UX design, cybersecurity  
--  **Hobbies & Interests:** Arch + Hyprland tinkering, chess, reading books, manga, anime, comics, movies  
+-  **Hobbies & Interests:**  Linus & ricing, chess, reading books, manga, anime, comics, movies  
 -  **Languages I Speak:** English, Bangla, Hindi, Assamese, Spanish, Japanese, German, Nepali, French  
 - 🕉️ **Philosophy:** Enjoy solitude, love learning new things, music fuels creativity  
 -  **Always Open For:** Collaborations, projects, experiments, and exploring new tech  
