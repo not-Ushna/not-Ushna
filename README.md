@@ -7,7 +7,7 @@
 <h2 align="center">Hi, I'm <a href="https://github.com/not-Ushna">Ushna</a> <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/pikahello.gif" width="40px" height="40px"></h2>
 
 <p align="center">
-3ʳᵈ year CSE student at Chandigarh University 🏫  
+4th year CSE student at Chandigarh University 🏫  
 </p>
 
 ---
