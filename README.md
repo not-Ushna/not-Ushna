@@ -54,7 +54,7 @@
 - Currently deepening skills in **TensorFlow**, **PyTorch**, **OpenCV**, **NumPy**, and **Cybersecurity Tools**
 - Open to collaborations in **AI/ML**, **Cybersecurity**, **UI/UX Design**, and **Open-Source**
 
-<img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/peace.gif" width="20px" height="20px"> &nbsp;*Music fuels my focus and creativity.* Kanye & Eminem my two GOATs
+<img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/peace.gif" width="20px" height="20px"> &nbsp;*Music fuels my focus and creativity — Kanye West and Eminem are my two GOATs*
 
 <br clear="right"/>
 
@@ -182,6 +182,7 @@
     <td><b>Hobbies</b></td>
     <td>Linux ricing, chess, reading, manga, anime, comics, movies</td>
   </tr>
+
   <tr>
     <td><b>Languages I Speak</b></td>
     <td>English, Bangla, Hindi, Assamese, Spanish, Japanese, German, Nepali, French</td>
