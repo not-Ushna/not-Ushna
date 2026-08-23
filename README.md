@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm 
-  <a href="https://github.com/not-Ushna">Ushna/a>
+  <a href="https://github.com/not-Ushna">Ushna</a>
   <img src="https://raw.githubusercontent.com/not-Ushna/not-Ushna/main/pikahello.gif" width="40px" height="40px">
 </h1>
 
